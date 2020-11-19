@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/taraphirun/bloo_trial_chat_app_frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/taraphirun/bloo_trial_chat_app_backend.git
